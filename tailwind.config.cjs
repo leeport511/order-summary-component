@@ -10,7 +10,7 @@ module.exports = {
 
                 // Neutral
 
-                "dark-blue": "hsl(223, 47%, 23%)",
+                "dark-blue": "#766cf1",
                 "desaturated-blue": "hsl(224, 23%, 55%)",
                 "very-pale-blue": "hsl(225, 100%, 98%)",
             },
